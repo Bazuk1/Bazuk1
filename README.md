@@ -5,4 +5,4 @@
 
 🛠️ On the frontend, I wield the power of React to bring ideas to life, leveraging its flexibility and component-based architecture to create intuitive and visually stunning interfaces. Meanwhile, on the backend, I'm proficient in technologies like Node.js and Express, crafting scalable APIs and managing server-side logic with finesse.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwind,elixir,vscode,visualstudio,c,cs,dotnet,java,maven,spring,gradle,cloudflare,bots,electron,express,firebase,mongodb,git,github,stackoverflow,heroku,py,latex,regex,windows,linux,ubuntu,sublime,md,obsidian,mysql,vim,neovim,netlify,nextjs,nodejs,threejs,npm,yarn,opencv,ps,pr,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwind,elixir,vscode,mongodb,nodejs)](https://skillicons.dev)
